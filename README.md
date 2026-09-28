@@ -24,3 +24,6 @@ DJ Pal Requirements:
 -os
 -numpy
 -scipy
+
+**Project Paper**
+For more information about DJ Pal please see the final paper found in the repo.
