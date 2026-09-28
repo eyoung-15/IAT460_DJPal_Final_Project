@@ -1,4 +1,7 @@
-# IAT460_DJPal_Final_Project
+# DJ Pal – AI-Powered Music Remixing System
+
+**Generative AI & Computational Creativity (IAT 460)**
+
 
 DJ Pal is a generative AI system that can transform any song into a new genre. DJ Pal uses Python, Librosa, Hybrid Demucs, MusicGen, and Gradio to achieve this.
 
@@ -9,21 +12,34 @@ How to Run:
 4. Upload any song and get remixing!
 
 
+**DJ Pal Requirements:**
 
-DJ Pal Requirements:
 -librosa
+
 -demucs
+
 -pydub
+
 -soundfile 
+
 -torch
+
 -torchaudio
+
 -setuptools wheel
+
 -HuggingFace transformers
+
 -gradio
+
 -matplotlib
+
 -os
+
 -numpy
+
 -scipy
 
 **Project Paper**
+
 For more information about DJ Pal please see the final paper found in the repo.
